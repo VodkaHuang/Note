@@ -30,7 +30,7 @@
           }
       },
       "edit-link": {
-        "base": "https://github.com/VodkaHuang/Note/edit/main/",
+        "base": "https://github.com/VodkaHuang/Note/edit/main/book_sources/",
         "label": "編輯"
       },
       "ga": {
