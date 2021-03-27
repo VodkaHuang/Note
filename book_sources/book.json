@@ -30,8 +30,8 @@
           }
       },
       "edit-link": {
-        "base": "https://github.com/onejar99/demo-build-and-publish-gitbook/edit/master/",
-        "label": "Edit This Page"
+        "base": "https://github.com/VodkaHuang/Note/edit/main/",
+        "label": "編輯"
       },
       "ga": {
         "token": ""
