@@ -1,5 +1,8 @@
-# 關於本書 📚
+# 關於Note
 
-示範如何用 GitHub Pages + GitHub Actions 免費建立自己的 GitBook。
+技術&生活<br>
+by syhuang 20210327
 
-本書網址：https://books.onejar99.com/demo-build-and-publish-gitbook
+[書本網址](https://vodkahuang.github.io/Note/)
+<br>
+[存放庫](https://github.com/VodkaHuang/Note)
