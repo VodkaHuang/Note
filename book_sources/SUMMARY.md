@@ -6,5 +6,5 @@
    * [#7 Reverse Integer](articles/Leetcode/easy/7.md)
  * Tech
    * Other
-     * [建立gitbook, 並可在VSCode與HackMD編輯推送至GitHub](articles/other/20210328/../../Tech/Other/20210328/how_to_build_note_on_gitbook_and_edit_by_VScode_and_HackMD.md)
+     * [建立gitbook, 並可在VSCode與HackMD編輯推送至GitHub](articles/Tech/Other/20210328/how_to_build_note_on_gitbook_and_edit_by_VScode_and_HackMD.md)
 
