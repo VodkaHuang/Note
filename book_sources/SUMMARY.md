@@ -1,7 +1,7 @@
 # Summary
 
- * [簡介](./README.md)
- * Leetcode - Easy
+ * [簡介](README.md)
+ * [Leetcode - Easy](./articles/Leetcode/easy/1.md)
     * [#1 Two Sum](./articles/Leetcode/easy/1.md)
  * Tech
     * Other
