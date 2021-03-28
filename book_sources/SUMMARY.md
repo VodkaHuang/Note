@@ -1,6 +1,6 @@
 # Summary
 
-## [簡介](README.md)
+## [簡介](./README.md)
 ***
 ## Leetcode - Easy
   -  [#1 Two Sum](./articles/Leetcode/easy/1.md)
