@@ -13,6 +13,7 @@
    * [#167 Two Sum II - Input array is sorted](articles/Leetcode/easy/167.md)
    * [#168 Excel Sheet Column Title](articles/Leetcode/easy/168.md)
    * [#169 Majority Element](articles/Leetcode/easy/169.md)
+   * [#171 Sheet Column Number](articles/Leetcode/easy/171.md)
  * [Tech](articles/Tech/README.md)
    * [建立gitbook並可在VSCode與HackMD編輯推送至GitHub](articles/Tech/Other/how_to_build_gitbook_and_edit_by_VSCode_and_HackMD.md)
 
