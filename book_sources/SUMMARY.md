@@ -14,6 +14,7 @@
    * [#168 Excel Sheet Column Title](articles/Leetcode/easy/168.md)
    * [#169 Majority Element](articles/Leetcode/easy/169.md)
    * [#171 Sheet Column Number](articles/Leetcode/easy/171.md)
+   * [#172 Factorial Trailing Zeroes](articles/Leetcode/easy/172.md)
    * [#176 Second Highest Salary](articles/Leetcode/easy/176.md)
    * [#181 Second Highest Salary](articles/Leetcode/easy/181.md)
    * [#182 Duplicate Emails](articles/Leetcode/easy/182.md)
