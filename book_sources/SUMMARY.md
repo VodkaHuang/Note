@@ -15,6 +15,8 @@
    * [#169 Majority Element](articles/Leetcode/easy/169.md)
    * [#171 Sheet Column Number](articles/Leetcode/easy/171.md)
    * [#176 Second Highest Salary](articles/Leetcode/easy/176.md)
+   * [#181 Second Highest Salary](articles/Leetcode/easy/181.md)
+   * [#182 Duplicate Emails](articles/Leetcode/easy/182.md)
  * [Tech](articles/Tech/README.md)
    * [建立gitbook並可在VSCode與HackMD編輯推送至GitHub](articles/Tech/Other/how_to_build_gitbook_and_edit_by_VSCode_and_HackMD.md)
 
