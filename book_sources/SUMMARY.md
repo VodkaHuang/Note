@@ -18,6 +18,7 @@
    * [#181 Second Highest Salary](articles/Leetcode/easy/181.md)
    * [#182 Duplicate Emails](articles/Leetcode/easy/182.md)
    * [#183 Customers Who Never Order](articles/Leetcode/easy/183.md)
+   * [#190 Reverse Bits](articles/Leetcode/easy/190.md)
  * [Tech](articles/Tech/README.md)
    * [建立gitbook並可在VSCode與HackMD編輯推送至GitHub](articles/Tech/Other/how_to_build_gitbook_and_edit_by_VSCode_and_HackMD.md)
 
