@@ -23,6 +23,7 @@
    * [#191 Number of 1 Bits](articles/Leetcode/easy/191.md)
    * [#196 Delete Duplicate Emails](articles/Leetcode/easy/196.md)
    * [#197 Rising Temperature](articles/Leetcode/easy/197.md)
+   * [#202 Happy Number](articles/Leetcode/easy/202.md)
  * [Tech](articles/Tech/README.md)
    * [建立gitbook並可在VSCode與HackMD編輯推送至GitHub](articles/Tech/Other/how_to_build_gitbook_and_edit_by_VSCode_and_HackMD.md)
 
