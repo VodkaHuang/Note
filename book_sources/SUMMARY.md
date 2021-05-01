@@ -16,7 +16,7 @@
    * [#171 Sheet Column Number](articles/Leetcode/easy/171.md)
    * [#172 Factorial Trailing Zeroes](articles/Leetcode/easy/172.md)
    * [#176 Second Highest Salary](articles/Leetcode/easy/176.md)
-   * [#181 Second Highest Salary](articles/Leetcode/easy/181.md)
+   * [#181 Employees Earning More Than Their Managers](articles/Leetcode/easy/181.md)
    * [#182 Duplicate Emails](articles/Leetcode/easy/182.md)
    * [#183 Customers Who Never Order](articles/Leetcode/easy/183.md)
    * [#190 Reverse Bits](articles/Leetcode/easy/190.md)
