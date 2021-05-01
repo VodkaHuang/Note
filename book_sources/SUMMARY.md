@@ -29,6 +29,7 @@
    * [#207 Reverse Linked List](articles/Leetcode/easy/207.md)
    * [#217 Contains Duplicate](articles/Leetcode/easy/217.md)
    * [#219 Contains Duplicate II](articles/Leetcode/easy/219.md)
+   * [#225 Implement Stack using Queues](articles/Leetcode/easy/225.md)
  * [Tech](articles/Tech/README.md)
    * [建立gitbook並可在VSCode與HackMD編輯推送至GitHub](articles/Tech/Other/how_to_build_gitbook_and_edit_by_VSCode_and_HackMD.md)
 
