@@ -33,6 +33,7 @@
    * [#226 Invert Binary Tree](articles/Leetcode/easy/226.md)
    * [#228 Summary Ranges](articles/Leetcode/easy/228.md)
    * [#231 Power of Two](articles/Leetcode/easy/231.md)
+   * [#232 Implement Queue using Stacks](articles/Leetcode/easy/232.md)
  * [Tech](articles/Tech/README.md)
    * [建立gitbook並可在VSCode與HackMD編輯推送至GitHub](articles/Tech/Other/how_to_build_gitbook_and_edit_by_VSCode_and_HackMD.md)
 
