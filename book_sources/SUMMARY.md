@@ -35,7 +35,9 @@
    * [#231 Power of Two](articles/Leetcode/easy/231.md)
    * [#232 Implement Queue using Stacks](articles/Leetcode/easy/232.md)
    * [#234 Palindrome Linked List](articles/Leetcode/easy/234.md)
+ * [Reading](articles/Reading/README.md)
+   * [The Clean Coder](articles/Reading/TheCleanCoder/t01.md)
  * [Tech](articles/Tech/README.md)
    * [建立gitbook並可在VSCode與HackMD編輯推送至GitHub](articles/Tech/Other/how_to_build_gitbook_and_edit_by_VSCode_and_HackMD.md)
 
-###### tags: `leetcode`, `leetcode-easy`
+###### tags: `summary`
