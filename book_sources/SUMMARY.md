@@ -9,6 +9,7 @@
    * [#70 Climbing Stairs](articles/Leetcode/easy/70.md)
    * [#94 Binary Tree Inorder Traversal](articles/Leetcode/easy/94.md)
    * [#136 Single Number](articles/Leetcode/easy/136.md)
+   * [#144 Binary Tree Preorder Traversal](articles/Leetcode/easy/144.md)
    * [#155 Min Stack](articles/Leetcode/easy/155.md)
    * [#160 Intersection of Two Linked Lists](articles/Leetcode/easy/160.md)
    * [#167 Two Sum II - Input array is sorted](articles/Leetcode/easy/167.md)
