@@ -7,6 +7,7 @@
    * [#28 Implement strStr()](articles/Leetcode/easy/28.md)
    * [#58 Length of Last Word](articles/Leetcode/easy/58.md)
    * [#70 Climbing Stairs](articles/Leetcode/easy/70.md)
+   * [#94 Binary Tree Inorder Traversal](articles/Leetcode/easy/94.md)
    * [#136 Single Number](articles/Leetcode/easy/136.md)
    * [#155 Min Stack](articles/Leetcode/easy/155.md)
    * [#160 Intersection of Two Linked Lists](articles/Leetcode/easy/160.md)
