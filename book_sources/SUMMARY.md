@@ -40,6 +40,7 @@
    * [#234 Palindrome Linked List](articles/Leetcode/easy/232.md)
    * [#235 Lowest Common Ancestor of a Binary Search Tree](articles/Leetcode/easy/235.md)
    * [#237 Delete Node in a Linked List](articles/Leetcode/easy/237.md)
+   * [#242 Valid Anagram](articles/Leetcode/easy/242.md)
  * [Reading](articles/Reading/README.md)
    * [The Clean Coder](articles/Reading/TheCleanCoder/t01.md)
  * [Tech](articles/Tech/README.md)
