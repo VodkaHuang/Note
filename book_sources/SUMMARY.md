@@ -29,6 +29,7 @@
    * [#202 Happy Number](articles/Leetcode/easy/202.md)
    * [#203 Remove Linked List Elements](articles/Leetcode/easy/203.md)
    * [#204 Count Primes](articles/Leetcode/easy/204.md)
+   * [#205 Isomorphic Strings](articles/Leetcode/easy/205.md)
    * [#207 Reverse Linked List](articles/Leetcode/easy/207.md)
    * [#217 Contains Duplicate](articles/Leetcode/easy/217.md)
    * [#219 Contains Duplicate II](articles/Leetcode/easy/219.md)
