@@ -8,6 +8,7 @@
    * [#58 Length of Last Word](articles/Leetcode/easy/58.md)
    * [#70 Climbing Stairs](articles/Leetcode/easy/70.md)
    * [#94 Binary Tree Inorder Traversal](articles/Leetcode/easy/94.md)
+   * [#121 Best Time to Buy and Sell Stock](articles/Leetcode/easy/121.md)
    * [#136 Single Number](articles/Leetcode/easy/136.md)
    * [#144 Binary Tree Preorder Traversal](articles/Leetcode/easy/144.md)
    * [#145 Binary Tree Postorder Traversal](articles/Leetcode/easy/145.md)
