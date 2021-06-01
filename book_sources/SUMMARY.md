@@ -45,6 +45,7 @@
    * [#242 Valid Anagram](articles/Leetcode/easy/242.md)
    * [#257 Binary Tree Paths](articles/Leetcode/easy/257.md)
    * [#258 Add Digits](articles/Leetcode/easy/258.md)
+   * [#263 Ugly Number](articles/Leetcode/easy/263.md)
  * [Reading](articles/Reading/README.md)
    * [The Clean Coder](articles/Reading/TheCleanCoder/t01.md)
  * [Tech](articles/Tech/README.md)
