@@ -44,6 +44,7 @@
    * [#237 Delete Node in a Linked List](articles/Leetcode/easy/237.md)
    * [#242 Valid Anagram](articles/Leetcode/easy/242.md)
    * [#257 Binary Tree Paths](articles/Leetcode/easy/257.md)
+   * [#258 Add Digits](articles/Leetcode/easy/258.md)
  * [Reading](articles/Reading/README.md)
    * [The Clean Coder](articles/Reading/TheCleanCoder/t01.md)
  * [Tech](articles/Tech/README.md)
