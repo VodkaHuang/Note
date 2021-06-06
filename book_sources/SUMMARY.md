@@ -1,6 +1,10 @@
 # Summary
 
  * [簡介](README.md)
+ * [Algorithm](aritcles/Tech/Algorithm/README.md)
+   * [二元搜尋法定式](articles/Tech/Algorithm/intellisense_binary_search.md)
+ * [Kata](articles/Tech/Kata/README.md)
+   * [#1 Prime Factors](articles/Tech/Kata/1_Prime_Factors.md)
  * [Leetcode - Easy](articles/Leetcode/README.md)
    * [#1 Two Sum](articles/Leetcode/easy/1.md)
    * [#7 Reverse Integer](articles/Leetcode/easy/7.md)

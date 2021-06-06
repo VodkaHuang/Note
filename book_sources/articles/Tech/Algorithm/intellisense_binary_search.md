@@ -1,4 +1,4 @@
-> 二分法查找
+> 二分法查找定式
 ```javascript
 var left = 0;
 var right = n;
