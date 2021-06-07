@@ -52,6 +52,7 @@
    * [#263 Ugly Number](articles/Leetcode/easy/263.md)
    * [#268 Missing Number](articles/Leetcode/easy/268.md)
    * [#278 First Bad Version](articles/Leetcode/easy/278.md)
+   * [#283 Move Zeroes](articles/Leetcode/easy/283.md)
  * [Reading](articles/Reading/README.md)
    * [The Clean Coder](articles/Reading/TheCleanCoder/t01.md)
  * [Tech](articles/Tech/README.md)
