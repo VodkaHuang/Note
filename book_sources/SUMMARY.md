@@ -54,6 +54,7 @@
    * [#278 First Bad Version](articles/Leetcode/easy/278.md)
    * [#283 Move Zeroes](articles/Leetcode/easy/283.md)
    * [#290 Word Pattern](articles/Leetcode/easy/290.md)
+   * [#292 Nim Game](articles/Leetcode/easy/292.md)
  * [Reading](articles/Reading/README.md)
    * [The Clean Coder](articles/Reading/TheCleanCoder/t01.md)
  * [Tech](articles/Tech/README.md)
