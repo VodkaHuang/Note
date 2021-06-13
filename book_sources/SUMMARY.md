@@ -56,7 +56,10 @@
    * [#290 Word Pattern](articles/Leetcode/easy/290.md)
    * [#292 Nim Game](articles/Leetcode/easy/292.md)
  * [Reading](articles/Reading/README.md)
-   * [The Clean Coder](articles/Reading/TheCleanCoder/t01.md)
+   * [The Clean Coder](articles/Reading/TheCleanCoder/README.md)
+     * [t01](articles/reading/TheCleanCoder/t01.md)
+   * [大話設計](articles/reading/大話設計/README.md)
+     * [物件導向基礎練習](articles/reading/大話設計/附錄A-物件導向基礎練習.md)
  * [Tech](articles/Tech/README.md)
    * [建立gitbook並可在VSCode與HackMD編輯推送至GitHub](articles/Tech/Other/how_to_build_gitbook_and_edit_by_VSCode_and_HackMD.md)
 
