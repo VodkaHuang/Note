@@ -55,6 +55,7 @@
    * [#283 Move Zeroes](articles/Leetcode/easy/283.md)
    * [#290 Word Pattern](articles/Leetcode/easy/290.md)
    * [#292 Nim Game](articles/Leetcode/easy/292.md)
+   * [#303 Range Sum Query - Immutable](articles/Leetcode/easy/303.md)
  * [Reading](articles/Reading/README.md)
    * [The Clean Coder](articles/Reading/TheCleanCoder/README.md)
      * [t01](articles/Reading/TheCleanCoder/t01.md)
