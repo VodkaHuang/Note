@@ -56,6 +56,7 @@
    * [#290 Word Pattern](articles/Leetcode/easy/290.md)
    * [#292 Nim Game](articles/Leetcode/easy/292.md)
    * [#303 Range Sum Query - Immutable](articles/Leetcode/easy/303.md)
+   * [#326 Power of Three](articles/Leetcode/easy/326.md)
  * [Reading](articles/Reading/README.md)
    * [The Clean Coder](articles/Reading/TheCleanCoder/README.md)
      * [t01](articles/Reading/TheCleanCoder/t01.md)
