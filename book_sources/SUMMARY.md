@@ -60,6 +60,7 @@
    * [#338 Counting Bits](articles/Leetcode/easy/338.md)
    * [#344 Reverse String](articles/Leetcode/easy/344.md)
    * [#345 Reverse Vowels of a String](articles/Leetcode/easy/345.md)
+   * [#349 Intersection of Two Arrays](articles/Leetcode/easy/349.md)
  * [Reading](articles/Reading/README.md)
    * [The Clean Coder](articles/Reading/TheCleanCoder/README.md)
      * [t01](articles/Reading/TheCleanCoder/t01.md)
