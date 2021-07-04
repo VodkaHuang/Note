@@ -84,7 +84,7 @@ window.onload = function() {
     //輸出
     for (animal of Animals) animal.Shout();
 }
-class Animla {
+class Animal {
     constructor(p_name, p_max_shout_num, p_voice) {
         this.NAME = p_name || '(無名)';
         this._MAX_SHOUT_NUM = p_max_shout_num;
@@ -104,12 +104,12 @@ class Animla {
         return result;
     }
 }
-class Dog extends Animla {
+class Dog extends Animal {
     constructor(p_name) {
         super(p_name, 3, '汪');
     }
 }
-class Cat extends Animla {
+class Cat extends Animal {
     constructor(p_name) {
         super(p_name, 5, '喵');
     }
