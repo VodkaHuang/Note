@@ -61,6 +61,7 @@
    * [#344 Reverse String](articles/Leetcode/easy/344.md)
    * [#345 Reverse Vowels of a String](articles/Leetcode/easy/345.md)
    * [#349 Intersection of Two Arrays](articles/Leetcode/easy/349.md)
+   * [#350 Intersection of Two Arrays II](articles/Leetcode/easy/350.md)
  * [Reading](articles/Reading/README.md)
    * [The Clean Coder](articles/Reading/TheCleanCoder/README.md)
      * [t01](articles/Reading/TheCleanCoder/t01.md)
