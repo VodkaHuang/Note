@@ -63,6 +63,7 @@
    * [#349 Intersection of Two Arrays](articles/Leetcode/easy/349.md)
    * [#350 Intersection of Two Arrays II](articles/Leetcode/easy/350.md)
    * [#367 Valid Perfect Square](articles/Leetcode/easy/367.md)
+   * [#374 Guess Number Higher or Lower](articles/Leetcode/easy/374.md)
  * [Reading](articles/Reading/README.md)
    * [The Clean Coder](articles/Reading/TheCleanCoder/README.md)
      * [t01](articles/Reading/TheCleanCoder/t01.md)
