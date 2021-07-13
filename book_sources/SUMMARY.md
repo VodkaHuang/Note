@@ -64,6 +64,7 @@
    * [#350 Intersection of Two Arrays II](articles/Leetcode/easy/350.md)
    * [#367 Valid Perfect Square](articles/Leetcode/easy/367.md)
    * [#374 Guess Number Higher or Lower](articles/Leetcode/easy/374.md)
+   * [#383 Ransom Note](articles/Leetcode/easy/383.md)
  * [Reading](articles/Reading/README.md)
    * [The Clean Coder](articles/Reading/TheCleanCoder/README.md)
      * [t01](articles/Reading/TheCleanCoder/t01.md)
