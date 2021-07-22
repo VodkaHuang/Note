@@ -67,6 +67,7 @@
    * [#383 Ransom Note](articles/Leetcode/easy/383.md)
    * [#387 First Unique Character in a String](articles/Leetcode/easy/387.md)
    * [#389 Find the Difference](articles/Leetcode/easy/389.md)
+   * [#392 Is Subsequence](articles/Leetcode/easy/392.md)
  * [Reading](articles/Reading/README.md)
    * [The Clean Coder](articles/Reading/TheCleanCoder/README.md)
      * [t01](articles/Reading/TheCleanCoder/t01.md)
