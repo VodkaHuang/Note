@@ -69,6 +69,7 @@
    * [#389 Find the Difference](articles/Leetcode/easy/389.md)
    * [#392 Is Subsequence](articles/Leetcode/easy/392.md)
    * [#401 Binary Watch](articles/Leetcode/easy/401.md)
+   * [#404 Sum of Left Leaves](articles/Leetcode/easy/404.md)
  * [Reading](articles/Reading/README.md)
    * [The Clean Coder](articles/Reading/TheCleanCoder/README.md)
      * [t01](articles/Reading/TheCleanCoder/t01.md)
