@@ -6,6 +6,7 @@
  * [Kata](articles/Tech/Kata/README.md)
    * [#1 Prime Factors](articles/Tech/Kata/1_Prime_Factors.md)
  * [Leetcode - Easy](articles/Leetcode/README.md)
+     * [#409 Longest Palindrome](articles/Leetcode/easy/409.md)
    * [#404 Sum of Left Leaves](articles/Leetcode/easy/404.md)
    * [#401 Binary Watch](articles/Leetcode/easy/401.md)
    * [#392 Is Subsequence](articles/Leetcode/easy/392.md)
