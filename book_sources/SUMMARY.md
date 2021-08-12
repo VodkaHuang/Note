@@ -6,6 +6,7 @@
  * [Kata](articles/Tech/Kata/README.md)
    * [#1 Prime Factors](articles/Tech/Kata/1_Prime_Factors.md)
  * [Leetcode - Easy](articles/Leetcode/README.md)
+     * [#414 Third Maximum Number](articles/Leetcode/easy/414.md)
      * [#412 Fizz Buzz](articles/Leetcode/easy/412.md)
      * [#409 Longest Palindrome](articles/Leetcode/easy/409.md)
      * [#405 Convert a Number to Hexadecimal](articles/Leetcode/easy/405.md)
