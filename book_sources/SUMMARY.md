@@ -6,6 +6,7 @@
  * [Kata](articles/Tech/Kata/README.md)
    * [#1 Prime Factors](articles/Tech/Kata/1_Prime_Factors.md)
  * [Leetcode - Easy](articles/Leetcode/README.md)
+     * [#434 Number of Segments in a String](articles/Leetcode/easy/434.md)
      * [#415 Add Strings](articles/Leetcode/easy/415.md)
      * [#414 Third Maximum Number](articles/Leetcode/easy/414.md)
      * [#412 Fizz Buzz](articles/Leetcode/easy/412.md)
