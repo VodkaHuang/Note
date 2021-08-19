@@ -6,6 +6,7 @@
  * [Kata](articles/Tech/Kata/README.md)
    * [#1 Prime Factors](articles/Tech/Kata/1_Prime_Factors.md)
  * [Leetcode - Easy](articles/Leetcode/README.md)
+     * [#441 Number of Arranging Coins](articles/Leetcode/easy/441.md)
      * [#434 Number of Segments in a String](articles/Leetcode/easy/434.md)
      * [#415 Add Strings](articles/Leetcode/easy/415.md)
      * [#414 Third Maximum Number](articles/Leetcode/easy/414.md)
