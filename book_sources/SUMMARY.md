@@ -6,6 +6,7 @@
  * [Kata](articles/Tech/Kata/README.md)
    * [#1 Prime Factors](articles/Tech/Kata/1_Prime_Factors.md)
  * [Leetcode - Easy](articles/Leetcode/README.md)
+     * [#461 Hamming Distance](articles/Leetcode/easy/461.md)
      * [#459 Repeated Substring Pattern](articles/Leetcode/easy/459.md)
      * [#455 Assign Cookies](articles/Leetcode/easy/455.md)
      * [#453 Minimum Moves to Equal Array Elements](articles/Leetcode/easy/453.md)
