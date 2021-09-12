@@ -6,6 +6,7 @@
  * [Kata](articles/Tech/Kata/README.md)
    * [#1 Prime Factors](articles/Tech/Kata/1_Prime_Factors.md)
  * [Leetcode - Easy](articles/Leetcode/README.md)
+     * [#482 License Key Formatting](articles/Leetcode/easy/482.md)
      * [#476 Number Complement](articles/Leetcode/easy/476.md)
      * [#463 Island Perimeter](articles/Leetcode/easy/463.md)
      * [#461 Hamming Distance](articles/Leetcode/easy/461.md)
