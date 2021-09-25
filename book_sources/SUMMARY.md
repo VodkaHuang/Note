@@ -6,6 +6,7 @@
  * [Kata](articles/Tech/Kata/README.md)
    * [#1 Prime Factors](articles/Tech/Kata/1_Prime_Factors.md)
  * [Leetcode - Easy](articles/Leetcode/README.md)
+   * [#496 Next Greater Element I](articles/Leetcode/easy/496.md)
    * [#495 Teemo Attacking](articles/Leetcode/easy/495.md)
    * [#492 Construct the Rectangle](articles/Leetcode/easy/492.md)
    * [#485 Max Consecutive Ones](articles/Leetcode/easy/485.md)
