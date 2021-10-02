@@ -6,6 +6,7 @@
  * [Kata](articles/Tech/Kata/README.md)
    * [#1 Prime Factors](articles/Tech/Kata/1_Prime_Factors.md)
  * [Leetcode - Easy](articles/Leetcode/README.md)
+   * [#506 Relative Ranks](articles/Leetcode/easy/506.md)
    * [#504 Base 7](articles/Leetcode/easy/504.md)
    * [#501 Find Mode in Binary Search Tree](articles/Leetcode/easy/501.md)
    * [#500 Keyboard Row](articles/Leetcode/easy/500.md)
