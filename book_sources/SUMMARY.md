@@ -45,6 +45,7 @@
    * [#349 Intersection of Two Arrays](articles/Leetcode/easy/349.md)
    * [#345 Reverse Vowels of a String](articles/Leetcode/easy/345.md)
    * [#344 Reverse String](articles/Leetcode/easy/344.md)
+   * [#342 Power of Four](articles/Leetcode/easy/342.md)
    * [#338 Counting Bits](articles/Leetcode/easy/338.md)
    * [#326 Power of Three](articles/Leetcode/easy/326.md)
    * [#303 Range Sum Query - Immutable](articles/Leetcode/easy/303.md)
