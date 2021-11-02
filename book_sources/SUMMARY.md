@@ -7,6 +7,7 @@
    * [#1 Prime Factors](articles/Tech/Kata/1_Prime_Factors.md)
  * [Leetcode - Easy](articles/Leetcode/README.md)
    * [#541 Reverse String II](articles/Leetcode/easy/541.md)
+   * [#530 Minimum Absolute Difference in BST](articles/Leetcode/easy/530.md)
    * [#521 Longest Uncommon Subsequence I](articles/Leetcode/easy/521.md)
    * [#509 Fibonacci Number](articles/Leetcode/easy/509.md)
    * [#507 Perfect Number](articles/Leetcode/easy/507.md)
