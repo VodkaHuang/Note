@@ -6,6 +6,7 @@
  * [Kata](articles/Tech/Kata/README.md)
    * [#1 Prime Factors](articles/Tech/Kata/1_Prime_Factors.md)
  * [Leetcode - Easy](articles/Leetcode/README.md)
+   * [#543 Diameter of Binary Tree](articles/Leetcode/easy/543.md)
    * [#541 Reverse String II](articles/Leetcode/easy/541.md)
    * [#530 Minimum Absolute Difference in BST](articles/Leetcode/easy/530.md)
    * [#521 Longest Uncommon Subsequence I](articles/Leetcode/easy/521.md)
