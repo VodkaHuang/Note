@@ -1,0 +1,1710 @@
+
+<!DOCTYPE HTML>
+<html lang="" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>#283 Move Zeroes · GitBook</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.3">
+        
+        
+        
+    
+    <link rel="stylesheet" href="../../../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-anchor-navigation-ex/style/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-theme-comscore/test.css">
+                
+            
+        
+
+    
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../../../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../../../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="278.html" />
+    
+    
+    <link rel="prev" href="290.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../../../">
+            
+                <a href="../../../">
+            
+                    
+                    簡介
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="../../../aritcles/Tech/Algorithm/">
+            
+                <a href="../../../aritcles/Tech/Algorithm/">
+            
+                    
+                    Algorithm
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.1" data-path="../../Tech/Algorithm/intellisense_binary_search.html">
+            
+                <a href="../../Tech/Algorithm/intellisense_binary_search.html">
+            
+                    
+                    二元搜尋法定式
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="../../Tech/Kata/">
+            
+                <a href="../../Tech/Kata/">
+            
+                    
+                    Kata
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.3.1" data-path="../../Tech/Kata/1_Prime_Factors.html">
+            
+                <a href="../../Tech/Kata/1_Prime_Factors.html">
+            
+                    
+                    #1 Prime Factors
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" data-path="../">
+            
+                <a href="../">
+            
+                    
+                    Leetcode - Easy
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.4.1" data-path="543.html">
+            
+                <a href="543.html">
+            
+                    
+                    #543 Diameter of Binary Tree
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.2" data-path="541.html">
+            
+                <a href="541.html">
+            
+                    
+                    #541 Reverse String II
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.3" data-path="530.html">
+            
+                <a href="530.html">
+            
+                    
+                    #530 Minimum Absolute Difference in BST
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.4" data-path="521.html">
+            
+                <a href="521.html">
+            
+                    
+                    #521 Longest Uncommon Subsequence I
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.5" data-path="509.html">
+            
+                <a href="509.html">
+            
+                    
+                    #509 Fibonacci Number
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.6" data-path="507.html">
+            
+                <a href="507.html">
+            
+                    
+                    #507 Perfect Number
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.7" data-path="506.html">
+            
+                <a href="506.html">
+            
+                    
+                    #506 Relative Ranks
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.8" data-path="504.html">
+            
+                <a href="504.html">
+            
+                    
+                    #504 Base 7
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.9" data-path="501.html">
+            
+                <a href="501.html">
+            
+                    
+                    #501 Find Mode in Binary Search Tree
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.10" data-path="500.html">
+            
+                <a href="500.html">
+            
+                    
+                    #500 Keyboard Row
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.11" data-path="496.html">
+            
+                <a href="496.html">
+            
+                    
+                    #496 Next Greater Element I
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.12" data-path="495.html">
+            
+                <a href="495.html">
+            
+                    
+                    #495 Teemo Attacking
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.13" data-path="492.html">
+            
+                <a href="492.html">
+            
+                    
+                    #492 Construct the Rectangle
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.14" data-path="485.html">
+            
+                <a href="485.html">
+            
+                    
+                    #485 Max Consecutive Ones
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.15" data-path="482.html">
+            
+                <a href="482.html">
+            
+                    
+                    #482 License Key Formatting
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.16" data-path="476.html">
+            
+                <a href="476.html">
+            
+                    
+                    #476 Number Complement
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.17" data-path="463.html">
+            
+                <a href="463.html">
+            
+                    
+                    #463 Island Perimeter
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.18" data-path="461.html">
+            
+                <a href="461.html">
+            
+                    
+                    #461 Hamming Distance
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.19" data-path="459.html">
+            
+                <a href="459.html">
+            
+                    
+                    #459 Repeated Substring Pattern
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.20" data-path="455.html">
+            
+                <a href="455.html">
+            
+                    
+                    #455 Assign Cookies
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.21" data-path="453.html">
+            
+                <a href="453.html">
+            
+                    
+                    #453 Minimum Moves to Equal Array Elements
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.22" data-path="448.html">
+            
+                <a href="448.html">
+            
+                    
+                    #448 Find All Numbers Disappeared in an Array
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.23" data-path="441.html">
+            
+                <a href="441.html">
+            
+                    
+                    #441 Number of Arranging Coins
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.24" data-path="434.html">
+            
+                <a href="434.html">
+            
+                    
+                    #434 Number of Segments in a String
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.25" data-path="415.html">
+            
+                <a href="415.html">
+            
+                    
+                    #415 Add Strings
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.26" data-path="414.html">
+            
+                <a href="414.html">
+            
+                    
+                    #414 Third Maximum Number
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.27" data-path="412.html">
+            
+                <a href="412.html">
+            
+                    
+                    #412 Fizz Buzz
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.28" data-path="409.html">
+            
+                <a href="409.html">
+            
+                    
+                    #409 Longest Palindrome
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.29" data-path="405.html">
+            
+                <a href="405.html">
+            
+                    
+                    #405 Convert a Number to Hexadecimal
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.30" data-path="404.html">
+            
+                <a href="404.html">
+            
+                    
+                    #404 Sum of Left Leaves
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.31" data-path="401.html">
+            
+                <a href="401.html">
+            
+                    
+                    #401 Binary Watch
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.32" data-path="392.html">
+            
+                <a href="392.html">
+            
+                    
+                    #392 Is Subsequence
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.33" data-path="389.html">
+            
+                <a href="389.html">
+            
+                    
+                    #389 Find the Difference
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.34" data-path="387.html">
+            
+                <a href="387.html">
+            
+                    
+                    #387 First Unique Character in a String
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.35" data-path="383.html">
+            
+                <a href="383.html">
+            
+                    
+                    #383 Ransom Note
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.36" data-path="374.html">
+            
+                <a href="374.html">
+            
+                    
+                    #374 Guess Number Higher or Lower
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.37" data-path="367.html">
+            
+                <a href="367.html">
+            
+                    
+                    #367 Valid Perfect Square
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.38" data-path="350.html">
+            
+                <a href="350.html">
+            
+                    
+                    #350 Intersection of Two Arrays II
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.39" data-path="349.html">
+            
+                <a href="349.html">
+            
+                    
+                    #349 Intersection of Two Arrays
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.40" data-path="345.html">
+            
+                <a href="345.html">
+            
+                    
+                    #345 Reverse Vowels of a String
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.41" data-path="344.html">
+            
+                <a href="344.html">
+            
+                    
+                    #344 Reverse String
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.42" data-path="342.html">
+            
+                <a href="342.html">
+            
+                    
+                    #342 Power of Four
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.43" data-path="338.html">
+            
+                <a href="338.html">
+            
+                    
+                    #338 Counting Bits
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.44" data-path="326.html">
+            
+                <a href="326.html">
+            
+                    
+                    #326 Power of Three
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.45" data-path="303.html">
+            
+                <a href="303.html">
+            
+                    
+                    #303 Range Sum Query - Immutable
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.46" data-path="292.html">
+            
+                <a href="292.html">
+            
+                    
+                    #292 Nim Game
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.47" data-path="290.html">
+            
+                <a href="290.html">
+            
+                    
+                    #290 Word Pattern
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="1.4.48" data-path="283.html">
+            
+                <a href="283.html">
+            
+                    
+                    #283 Move Zeroes
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.49" data-path="278.html">
+            
+                <a href="278.html">
+            
+                    
+                    #278 First Bad Version
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.50" data-path="268.html">
+            
+                <a href="268.html">
+            
+                    
+                    #268 Missing Number
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.51" data-path="263.html">
+            
+                <a href="263.html">
+            
+                    
+                    #263 Ugly Number
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.52" data-path="258.html">
+            
+                <a href="258.html">
+            
+                    
+                    #258 Add Digits
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.53" data-path="257.html">
+            
+                <a href="257.html">
+            
+                    
+                    #257 Binary Tree Paths
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.54" data-path="242.html">
+            
+                <a href="242.html">
+            
+                    
+                    #242 Valid Anagram
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.55" data-path="237.html">
+            
+                <a href="237.html">
+            
+                    
+                    #237 Delete Node in a Linked List
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.56" data-path="235.html">
+            
+                <a href="235.html">
+            
+                    
+                    #235 Lowest Common Ancestor of a Binary Search Tree
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.57" data-path="232.html">
+            
+                <a href="232.html">
+            
+                    
+                    #234 Palindrome Linked List
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.58" data-path="232.html">
+            
+                <a href="232.html">
+            
+                    
+                    #232 Implement Queue using Stacks
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.59" data-path="231.html">
+            
+                <a href="231.html">
+            
+                    
+                    #231 Power of Two
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.60" data-path="228.html">
+            
+                <a href="228.html">
+            
+                    
+                    #228 Summary Ranges
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.61" data-path="226.html">
+            
+                <a href="226.html">
+            
+                    
+                    #226 Invert Binary Tree
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.62" data-path="225.html">
+            
+                <a href="225.html">
+            
+                    
+                    #225 Implement Stack using Queues
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.63" data-path="219.html">
+            
+                <a href="219.html">
+            
+                    
+                    #219 Contains Duplicate II
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.64" data-path="217.html">
+            
+                <a href="217.html">
+            
+                    
+                    #217 Contains Duplicate
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.65" data-path="207.html">
+            
+                <a href="207.html">
+            
+                    
+                    #207 Reverse Linked List
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.66" data-path="205.html">
+            
+                <a href="205.html">
+            
+                    
+                    #205 Isomorphic Strings
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.67" data-path="204.html">
+            
+                <a href="204.html">
+            
+                    
+                    #204 Count Primes
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.68" data-path="203.html">
+            
+                <a href="203.html">
+            
+                    
+                    #203 Remove Linked List Elements
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.69" data-path="202.html">
+            
+                <a href="202.html">
+            
+                    
+                    #202 Happy Number
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.70" data-path="197.html">
+            
+                <a href="197.html">
+            
+                    
+                    #197 Rising Temperature
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.71" data-path="196.html">
+            
+                <a href="196.html">
+            
+                    
+                    #196 Delete Duplicate Emails
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.72" data-path="191.html">
+            
+                <a href="191.html">
+            
+                    
+                    #191 Number of 1 Bits
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.73" data-path="190.html">
+            
+                <a href="190.html">
+            
+                    
+                    #190 Reverse Bits
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.74" data-path="183.html">
+            
+                <a href="183.html">
+            
+                    
+                    #183 Customers Who Never Order
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.75" data-path="182.html">
+            
+                <a href="182.html">
+            
+                    
+                    #182 Duplicate Emails
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.76" data-path="181.html">
+            
+                <a href="181.html">
+            
+                    
+                    #181 Employees Earning More Than Their Managers
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.77" data-path="176.html">
+            
+                <a href="176.html">
+            
+                    
+                    #176 Second Highest Salary
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.78" data-path="172.html">
+            
+                <a href="172.html">
+            
+                    
+                    #172 Factorial Trailing Zeroes
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.79" data-path="171.html">
+            
+                <a href="171.html">
+            
+                    
+                    #171 Sheet Column Number
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.80" data-path="169.html">
+            
+                <a href="169.html">
+            
+                    
+                    #169 Majority Element
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.81" data-path="168.html">
+            
+                <a href="168.html">
+            
+                    
+                    #168 Excel Sheet Column Title
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.82" data-path="167.html">
+            
+                <a href="167.html">
+            
+                    
+                    #167 Two Sum II - Input array is sorted
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.83" data-path="160.html">
+            
+                <a href="160.html">
+            
+                    
+                    #160 Intersection of Two Linked Lists
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.84" data-path="155.html">
+            
+                <a href="155.html">
+            
+                    
+                    #155 Min Stack
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.85" data-path="145.html">
+            
+                <a href="145.html">
+            
+                    
+                    #145 Binary Tree Postorder Traversal
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.86" data-path="144.html">
+            
+                <a href="144.html">
+            
+                    
+                    #144 Binary Tree Preorder Traversal
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.87" data-path="136.html">
+            
+                <a href="136.html">
+            
+                    
+                    #136 Single Number
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.88" data-path="121.html">
+            
+                <a href="121.html">
+            
+                    
+                    #121 Best Time to Buy and Sell Stock
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.89" data-path="94.html">
+            
+                <a href="94.html">
+            
+                    
+                    #94 Binary Tree Inorder Traversal
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.90" data-path="70.html">
+            
+                <a href="70.html">
+            
+                    
+                    #70 Climbing Stairs
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.91" data-path="58.html">
+            
+                <a href="58.html">
+            
+                    
+                    #58 Length of Last Word
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.92" data-path="28.html">
+            
+                <a href="28.html">
+            
+                    
+                    #28 Implement strStr()
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.93" data-path="7.html">
+            
+                <a href="7.html">
+            
+                    
+                    #7 Reverse Integer
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.94" data-path="1.html">
+            
+                <a href="1.html">
+            
+                    
+                    #1 Two Sum
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5" data-path="../../Reading/">
+            
+                <a href="../../Reading/">
+            
+                    
+                    Reading
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.5.1" data-path="../../Reading/TheCleanCoder/">
+            
+                <a href="../../Reading/TheCleanCoder/">
+            
+                    
+                    The Clean Coder
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.5.1.1" data-path="../../Reading/TheCleanCoder/t01.html">
+            
+                <a href="../../Reading/TheCleanCoder/t01.html">
+            
+                    
+                    t01
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.2" data-path="../../reading/大話設計/">
+            
+                <a href="../../reading/大話設計/">
+            
+                    
+                    大話設計
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.5.2.1" data-path="../../Reading/大話設計/附錄A-物件導向基礎練習.html">
+            
+                <a href="../../Reading/大話設計/附錄A-物件導向基礎練習.html">
+            
+                    
+                    物件導向基礎練習
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6" data-path="../../Tech/">
+            
+                <a href="../../Tech/">
+            
+                    
+                    Tech
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.6.1" data-path="../../Tech/Other/how_to_build_gitbook_and_edit_by_VSCode_and_HackMD.html">
+            
+                <a href="../../Tech/Other/how_to_build_gitbook_and_edit_by_VSCode_and_HackMD.html">
+            
+                    
+                    建立gitbook並可在VSCode與HackMD編輯推送至GitHub
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href="../../.." >#283 Move Zeroes</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <div id="anchor-navigation-ex-navbar"><i class="fa fa-navicon"></i><ul><li><span class="title-icon "></span><a href="#283-move-zeroes"><b></b>#283 Move Zeroes</a></li><ul><li><span class="title-icon "></span><a href="#&#x7D66;&#x5B9A;&#x4E00;&#x6578;&#x5B57;&#x9663;&#x5217;-&#x5C07;&#x6B64;&#x9663;&#x5217;&#x4E2D;&#x7684;0&#x6392;&#x5728;&#x9663;&#x5217;&#x672B;&#x7AEF;-&#x5176;&#x9918;&#x6578;&#x5B57;&#x9806;&#x5E8F;&#x4E0D;&#x8B8A;"><b></b>&#x7D66;&#x5B9A;&#x4E00;&#x6578;&#x5B57;&#x9663;&#x5217;, &#x5C07;&#x6B64;&#x9663;&#x5217;&#x4E2D;&#x7684;&quot;0&quot;&#x6392;&#x5728;&#x9663;&#x5217;&#x672B;&#x7AEF;, &#x5176;&#x9918;&#x6578;&#x5B57;&#x9806;&#x5E8F;&#x4E0D;&#x8B8A;</a></li><li><span class="title-icon "></span><a href="#log"><b></b>Log</a></li><li><span class="title-icon "></span><a href="#&#x5DE6;&#x53F3;&#x6307;&#x6A19;&#x4E92;&#x63DB;&#x6CD5;"><b></b>&#x5DE6;&#x53F3;&#x6307;&#x6A19;&#x4E92;&#x63DB;&#x6CD5;</a></li><li><span class="title-icon "></span><a href="#&#x521D;&#x898B;"><b></b>&#x521D;&#x898B;</a></li><li><span class="title-icon "></span><a href="#&#x5099;&#x8A3B;"><b></b>&#x5099;&#x8A3B;</a></li><li><span class="title-icon "></span><a href="#&#x53C3;&#x8003;"><b></b>&#x53C3;&#x8003;</a></li></ul></ul></div><a href="#283-move-zeroes" id="anchorNavigationExGoTop"><i class="fa fa-arrow-up"></i></a><h1 id="283-move-zeroes"><a name="283-move-zeroes" class="anchor-navigation-ex-anchor" href="#283-move-zeroes"><i class="fa fa-link" aria-hidden="true"></i></a>#283 Move Zeroes</h1>
+<h2 id="&#x7D66;&#x5B9A;&#x4E00;&#x6578;&#x5B57;&#x9663;&#x5217;-&#x5C07;&#x6B64;&#x9663;&#x5217;&#x4E2D;&#x7684;0&#x6392;&#x5728;&#x9663;&#x5217;&#x672B;&#x7AEF;-&#x5176;&#x9918;&#x6578;&#x5B57;&#x9806;&#x5E8F;&#x4E0D;&#x8B8A;"><a name="&#x7D66;&#x5B9A;&#x4E00;&#x6578;&#x5B57;&#x9663;&#x5217;-&#x5C07;&#x6B64;&#x9663;&#x5217;&#x4E2D;&#x7684;0&#x6392;&#x5728;&#x9663;&#x5217;&#x672B;&#x7AEF;-&#x5176;&#x9918;&#x6578;&#x5B57;&#x9806;&#x5E8F;&#x4E0D;&#x8B8A;" class="anchor-navigation-ex-anchor" href="#&#x7D66;&#x5B9A;&#x4E00;&#x6578;&#x5B57;&#x9663;&#x5217;-&#x5C07;&#x6B64;&#x9663;&#x5217;&#x4E2D;&#x7684;0&#x6392;&#x5728;&#x9663;&#x5217;&#x672B;&#x7AEF;-&#x5176;&#x9918;&#x6578;&#x5B57;&#x9806;&#x5E8F;&#x4E0D;&#x8B8A;"><i class="fa fa-link" aria-hidden="true"></i></a><em>&#x7D66;&#x5B9A;&#x4E00;&#x6578;&#x5B57;&#x9663;&#x5217;, &#x5C07;&#x6B64;&#x9663;&#x5217;&#x4E2D;&#x7684;&quot;0&quot;&#x6392;&#x5728;&#x9663;&#x5217;&#x672B;&#x7AEF;, &#x5176;&#x9918;&#x6578;&#x5B57;&#x9806;&#x5E8F;&#x4E0D;&#x8B8A;</em></h2>
+<h2 id="log"><a name="log" class="anchor-navigation-ex-anchor" href="#log"><i class="fa fa-link" aria-hidden="true"></i></a>Log</h2>
+<ul>
+<li>build 20210607 by syhuang</li>
+</ul>
+<h2 id="&#x5DE6;&#x53F3;&#x6307;&#x6A19;&#x4E92;&#x63DB;&#x6CD5;"><a name="&#x5DE6;&#x53F3;&#x6307;&#x6A19;&#x4E92;&#x63DB;&#x6CD5;" class="anchor-navigation-ex-anchor" href="#&#x5DE6;&#x53F3;&#x6307;&#x6A19;&#x4E92;&#x63DB;&#x6CD5;"><i class="fa fa-link" aria-hidden="true"></i></a>&#x5DE6;&#x53F3;&#x6307;&#x6A19;&#x4E92;&#x63DB;&#x6CD5;</h2>
+<ul>
+<li>&#x7528;left(&#x7576;&#x70BA;0&#x6642;&#x5C31;&#x548C;right&#x4EA4;&#x63DB;,&#x5426;&#x5247;&#x5F80;&#x53F3;&#x79FB;)&#x548C;right(&#x8981;&#x88AB;&#x4EA4;&#x63DB;&#x7684;&#x6578;,&#x6BCF;&#x6B21;&#x8FF4;&#x5708;&#x5F80;&#x53F3;&#x79FB;)&#x5169;&#x6307;&#x6A19;&#x8DD1;&#x8FF4;&#x5708;, right&#x8DD1;&#x5230;&#x5E95;&#x6642;&#x5C31;&#x8868;&#x793A;&#x6240;&#x6709;0&#x90FD;&#x88AB;&#x63DB;&#x5230;&#x9663;&#x5217;&#x5C3E;&#x7AEF;<pre><code class="lang-javascript=">var moveZeroes = function(nums) {
+ for(var left = right = 0; right&lt;nums.length; right++){
+     if(nums[left]==0){
+         [nums[left],nums[right]] = [nums[right],nums[left]]
+     }
+     if(nums[left]!=0) left++;
+ }
+};
+</code></pre>
+<h2 id="&#x521D;&#x898B;"><a name="&#x521D;&#x898B;" class="anchor-navigation-ex-anchor" href="#&#x521D;&#x898B;"><i class="fa fa-link" aria-hidden="true"></i></a>&#x521D;&#x898B;</h2>
+</li>
+<li>javascript&#x9663;&#x5217;&#x65B9;&#x6CD5;unshift+splice&#x5BE6;&#x4F5C;<pre><code class="lang-javascript=">var moveZeroes = function(nums) {
+ var p = nums.length-1;
+ for(var i=0; i&lt;nums.length; i++){
+     if(nums[p] == 0) p--;
+     else{
+         nums.unshift(nums[p]);
+         nums.splice(p+1,1);
+     }
+ }
+};
+</code></pre>
+<h2 id="&#x5099;&#x8A3B;"><a name="&#x5099;&#x8A3B;" class="anchor-navigation-ex-anchor" href="#&#x5099;&#x8A3B;"><i class="fa fa-link" aria-hidden="true"></i></a>&#x5099;&#x8A3B;</h2>
+</li>
+<li>javascript swap&#x5BEB;&#x6CD5;: [a,b] = [b,a]<h2 id="&#x53C3;&#x8003;"><a name="&#x53C3;&#x8003;" class="anchor-navigation-ex-anchor" href="#&#x53C3;&#x8003;"><i class="fa fa-link" aria-hidden="true"></i></a>&#x53C3;&#x8003;</h2>
+</li>
+<li><a href="https://leetcode.com/problems/move-zeroes/discuss/72011/Simple-O(N" target="_blank">&#x53C3;&#x8003;&#x89E3;</a>-Java-Solution-Using-Insert-Index)<h6 id="tags-leetcode-leetcode-easy"><a name="tags-leetcode-leetcode-easy" class="anchor-navigation-ex-anchor" href="#tags-leetcode-leetcode-easy"><i class="fa fa-link" aria-hidden="true"></i></a>tags: <code>leetcode</code>, <code>leetcode-easy</code></h6>
+</li>
+</ul>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="290.html" class="navigation navigation-prev " aria-label="Previous page: #290 Word Pattern">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="278.html" class="navigation navigation-next " aria-label="Next page: #278 First Bad Version">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"#283 Move Zeroes","level":"1.4.48","depth":2,"next":{"title":"#278 First Bad Version","level":"1.4.49","depth":2,"path":"articles/Leetcode/easy/278.md","ref":"articles/Leetcode/easy/278.md","articles":[]},"previous":{"title":"#290 Word Pattern","level":"1.4.47","depth":2,"path":"articles/Leetcode/easy/290.md","ref":"articles/Leetcode/easy/290.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["anchor-navigation-ex","edit-link","copy-code-button","theme-comscore","ga"],"pluginsConfig":{"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"fontSettings":{"theme":"night","family":"sans"},"highlight":{},"anchor-navigation-ex":{"associatedWithSummary":false,"float":{"floatIcon":"fa fa-navicon","level1Icon":"fa fa-hand-o-right","level2Icon":"fa fa-hand-o-right","level3Icon":"fa fa-hand-o-right","showLevelIcon":false},"mode":"float","multipleH1":false,"pageTop":{"level1Icon":"fa fa-hand-o-right","level2Icon":"fa fa-hand-o-right","level3Icon":"fa fa-hand-o-right","showLevelIcon":false},"printLog":false,"showGoTop":true,"showLevel":false},"theme-comscore":{},"copy-code-button":{},"ga":{"configuration":"auto","token":""},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"edit-link":{"label":"編輯","base":"https://github.com/VodkaHuang/Note/edit/main/book_sources/"},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"articles/Leetcode/easy/283.md","mtime":"2021-11-21T12:45:43.080Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-11-21T12:46:27.382Z"},"basePath":"../../..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../../../gitbook/gitbook.js"></script>
+    <script src="../../../gitbook/theme.js"></script>
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-edit-link/plugin.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-copy-code-button/toggle.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-ga/plugin.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-theme-comscore/test.js"></script>
+        
+    
+
+    </body>
+</html>
+
